@@ -1,5 +1,9 @@
+
 /************************************************************
 *PURPOSE: To change/reset password of a user from backend   *
+-- Ver
+-- ----
+-- 1.0
 *************************************************************/
 DECLARE
 --  l_user_name    VARCHAR2(30):= UPPER('ROMAN.WINER');
